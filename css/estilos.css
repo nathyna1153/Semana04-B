@@ -1,0 +1,90 @@
+body,footer {
+	padding: 0;
+	margin: 0;
+}
+.fondo{
+	
+	height: 420px;
+	background-image: url(images/bg.jpeg);
+	background-size: 100% 126%;
+}
+.logo {
+	width: 8%;
+	height: 8%;
+	margin-top: 2%;
+	margin-left: 13%;
+}
+.fixed{
+	color: #D5DBDB;
+	top:20px;
+	margin: 0% 2%;
+	float: right;
+
+}
+.inicio{
+	list-style-type: none;
+
+}
+.bar{
+	float: left;
+	padding:10px;
+	margin-left: 70px;
+}
+.texto_centrado{
+	text-align: center;
+	padding-left: 25%;
+	padding-right: 25%;
+
+}
+.texto_blanco{
+	color: white;
+}
+.titulo{
+	font-size: 50px;
+	margin:20px;
+}
+.button {
+    
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+.button1 {
+	background-color: #5499C7; 
+}
+.button2 {
+	background-color: #4CAF50;
+}
+.button3 {
+	background-color: white;
+	color:black;
+	border: 1px solid gray;
+}
+.lorem_ipsum{
+	font-size: 15px;
+	margin : 0px 20px 0px 20px;
+}
+.info{
+	background-color: #EAEDED
+}
+.contacto{
+	max-width: 49%;
+  	min-width:49%;
+  	display:inline-block;
+  	vertical-align: top;
+	text-align: left;
+
+}
+.footer{
+	background-color: black;
+	color:white;
+	padding-left: 15%;
+}

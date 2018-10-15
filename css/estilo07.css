@@ -1,0 +1,61 @@
+body{
+	background-color: white;
+}
+footer{
+	background-color: black;
+	color: white;
+	padding-top: 20px;
+	font-size: 18px;
+}
+.fondo-carrusel{
+	background-image: url(../images/bg.jpeg);
+	background-repeat: no-repeat;
+	background-position: 0% 100%;
+	background-size: 100% 100%;
+
+}
+.nav-color{
+	color: #babbbb;
+}
+.jumbotron p{
+	font-size: 15px;
+}
+.jumbotron {
+	margin-bottom: 0px;
+}
+.navbar-default{
+  background:transparent;
+  background-image:none;
+  border-color:transparent;
+  box-shadow:none;
+}
+.navbar-brand {
+  padding: 0px; 
+}
+.navbar-brand>img {
+  height: 100%;
+  padding: 15px; 
+  width: auto;
+}
+.row-header{
+	color: white;
+	text-align: center;
+}
+.texto-centrado{
+	text-align: center;
+}
+.car-img img {
+	height: 400px !important;
+}
+.top30{
+	margin-top: 30px
+}
+.margin30{
+	margin-left: 30px;
+}
+.padding-bot-40{
+	padding-bottom: 40px;
+}
+.padding-top-40{
+	padding-top: 40px;
+}
